@@ -18,7 +18,7 @@ Within this module I used the ETL methods to clean data provided by NYC/NJ bike 
   * The member user also tends to ride more distance than casual users (33K miles Vs ~10K miles)
   * Therefore: New Jersey's primary customer target should be member riders.
 
-# Phenomenon 2:  Check Phen 2 Dashboard!<br> 
+# Phenomenon 2:  Check Phenom 2 Dashboard!<br> 
 * Dispersion of Riders at end of ride: By finding the top ten stations that riders started with (See Start Station tab), I was able to see the flow of riders at the end of their ride to even go within lower to mid Manhattan. 
  * However, it looks like majority of these top stations start and end their ride within NJ stations. But dispersing within other area.
 
