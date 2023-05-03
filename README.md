@@ -5,7 +5,7 @@ Within this module I used the ETL methods to clean data provided by NYC/NJ bike 
 [Tableau Link- Click Me!!](https://public.tableau.com/app/profile/dj.thapa/viz/Hw18Final/Phenomenon1-RiderType)<br>
 
 *<ins>ETL Steps:</ins>*
-* <ins>Extract</ins> <br> I used the CSV file for March 2023 New Jersey Bike data to conduct analysis by creating the below metrics:
+* <ins>Extract</ins> <br> I used the CSV file and converted into an [excel](JC-202303.2.0-citibike-tripdata.xlsm) for March 2023 New Jersey Bike data to conduct analysis by creating the below metrics:
 * <ins>Tranform</ins> <br> 
   * Derived distance traveled using the [formula](https://www.exceldemy.com/calculate-distance-between-two-gps-coordinates-excel/)
   * Dervied Start and End Days and times
