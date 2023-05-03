@@ -24,6 +24,9 @@ Within this module I used the ETL methods to clean data provided by NYC/NJ bike 
 
 # Phenomenon 3: Check Phenom 3 Dashboard! <br>
 * Popularity of ride within the top days and hour: In aggregate Peak office hours in the morning and night appear to be the most frequent use of bikes (by rider count)
- * Days:  Thurs,Tues, Monday seem to have the most hours ridden in total aggregate
- * Hours: 6-7 AM and 5-6 PM being the busiest in aggregate
+  * Days:  Thurs,Tues, Monday seem to have the most hours ridden in total aggregate
+  * Hours: 6-7 AM and 5-6 PM being the busiest in aggregate
+* Member habits follow more of a work commute schedule with more hours and higher riders throughout the work week.
+* Casual riders have a more variable timing with Thurs being the most hours rode
+
 
